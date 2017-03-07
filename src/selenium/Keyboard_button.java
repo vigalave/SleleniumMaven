@@ -20,7 +20,7 @@ public class Keyboard_button {
 		driver.get("https://www.google.co.in/?gfe_rd=cr&ei=lza5WKfsEM_y8AfCprzABw");
 		
 		WebElement textbox = driver.findElement(By.id("gs_htif0"));
-		textbox.sendKeys("hcsgsh");
+		textbox.sendKeys("hcnbnsgsh");
 		textbox.sendKeys(Keys.ENTER);
 		
 		Thread.sleep(5000);
