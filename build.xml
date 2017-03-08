@@ -9,9 +9,9 @@
     
     <property name="wspace.home" value="${basedir}"/>
 	<property name="wspace.jars" value="C:\Selenium\Eclipse\Software\Lib"/>
-    <property name="test.dest" value="${wspace.home}/build"/>
-    <property name="test.src" value="${wspace.home}/src"/>
-	<property name="test.reportsDir" value="C:/reports"/>
+    <property name="test.dest" value="${wspace.home}\build"/>
+    <property name="test.src" value="${wspace.home}\src"/>
+	<property name="test.reportsDir" value="C:\reports"/>
 
 	
 
